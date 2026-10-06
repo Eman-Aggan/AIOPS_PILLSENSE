@@ -1,0 +1,4 @@
+google-genai
+gradio>=6.0
+pillow
+numpy

@@ -1,0 +1,89 @@
+{
+  "paracetamol": [
+    "panadol",
+    "adol",
+    "abimol",
+    "cetal",
+    "tylenol",
+    "acetaminophen",
+    "باراسيتامول",
+    "بنادول",
+    "ادول"
+  ],
+  "ibuprofen": [
+    "brufen",
+    "advil",
+    "nurofen",
+    "ايبوبروفين",
+    "بروفين",
+    "نوروفين"
+  ],
+  "aspirin": [
+    "aspocid",
+    "aspirin protect",
+    "bayer aspirin",
+    "acetylsalicylic acid",
+    "اسبرين",
+    "أسبرين",
+    "اسبوسيد"
+  ],
+  "amoxicillin": [
+    "amoxil",
+    "flumox",
+    "hibiotic",
+    "augmentin",
+    "amoxicillin clavulanate",
+    "اموكسيسيلين",
+    "أموكسيسيلين",
+    "اوجمنتين",
+    "أوجمنتين"
+  ],
+  "warfarin": [
+    "marevan",
+    "coumadin",
+    "warfarin sodium",
+    "وارفارين",
+    "ماريفان"
+  ],
+  "omeprazole": [
+    "omez",
+    "losec",
+    "prilosec",
+    "اوميبرازول",
+    "أوميبرازول",
+    "اوميز"
+  ],
+  "metformin": [
+    "cidophage",
+    "glucophage",
+    "glumet",
+    "ميتفورمين",
+    "جلوكوفاج",
+    "سيدوفاج"
+  ],
+  "diclofenac": [
+    "cataflam",
+    "voltaren",
+    "olfen",
+    "diclofenac potassium",
+    "diclofenac sodium",
+    "ديكلوفيناك",
+    "كاتافلام",
+    "فولتارين"
+  ],
+  "cetirizine": [
+    "zyrtec",
+    "cetrine",
+    "cetirizine hydrochloride",
+    "سيتريزين",
+    "زيرتك"
+  ],
+  "atorvastatin": [
+    "lipitor",
+    "atorva",
+    "tulip",
+    "اتورفاستاتين",
+    "أتورفاستاتين",
+    "ليبيتور"
+  ]
+}
